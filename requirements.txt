@@ -1,6 +1,7 @@
 flask
 flask_wtf
 wtforms
+Werkzeug
 wtforms.validators
 flask_socketio
 gunicorn
