@@ -4,3 +4,4 @@ wtforms
 wtforms.validators
 flask_socketio
 gunicorn
+simple-websocket
