@@ -3,3 +3,4 @@ flask_wtf
 wtforms
 wtforms.validators
 flask_socketio
+gunicorn
